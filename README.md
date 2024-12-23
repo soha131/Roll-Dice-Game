@@ -10,4 +10,4 @@ Flutter, Provider
 
 
 ## Screenshots
-![Screenshot of the app](screenshots/Screenshot_20240803_182615.png)
+![Screenshot of the app](screenshots/Screenshot_20240717_114415.png)
