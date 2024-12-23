@@ -1,16 +1,13 @@
-# dice_app_st
+# Roll Dice Game
 
-A new Flutter project.
+Roll Dice is a simple interactive game built with Flutter, allowing users to roll two dice by clicking a "Roll" button. The game dynamically updates the dice values and displays the sum of the numbers shown on the dice.
+## Features
+. Roll Dice: Click the "Roll" button to change the values on two dice.
+. Sum Display: The app instantly calculates and displays the sum of the rolled dice.
+. Provider State Management: Utilizes the Provider package to manage the state of the dice and UI updates.
+## Technologies:
+Flutter, Provider
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot of the app](screenshots/Screenshot_20240803_182615.png)
